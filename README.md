@@ -1,6 +1,6 @@
 # BRICS/FOOD WASTE MANAGEMENT USING ANDROID APPLICATION
 
-A Mobile Application for Android developed using Android studio as a Micro-Project in 5th semester
+A Mobile Application for Android developed using Android studio as a Micro-Project in 3rd semester
 
 Technologies used-
 
